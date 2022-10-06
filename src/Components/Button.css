@@ -1,0 +1,8 @@
+button.square {
+    height: 180px;
+    width: 188px;
+    font-size: 2.5rem;
+    color: white;
+    font-family: ui-monospace;
+    background-color: #34495e;
+}
